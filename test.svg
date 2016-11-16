@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="154px" height="163px" viewBox="0 0 154 163" enable-background="new 0 0 154 163" xml:space="preserve">
+<g>
+	<g>
+		<polygon fill="#323232" points="77.08,101.243 33.329,57.492 28.137,62.682 77.086,111.63 126.15,62.447 120.954,57.263 		">
+			<animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0 77 80" to="360 77 80" dur="10s" repeatCount="indefinite" />
+		</polygon>
+	</g>
+	<g>
+		<polygon fill="#323232" points="77.144,38.591 100.397,61.882 126.229,35.988 121.032,30.804 100.395,51.491 77.141,28.2 
+			53.904,51.493 33.329,30.916 28.137,36.106 53.911,61.879">
+			<animateTransform attributeName="transform" attributeType="XML" type="translate" values="0,15;0,-15;0,15" dur="4s" repeatCount="indefinite" />
+		</polygon>
+	</g>
+	<g>
+		<path fill="#323232" d="M77.182,128.799c-22.497,0-40.8-17.799-40.8-40.799h-7.34c0,27,21.595,48.141,48.14,48.141
+			c26.544,0,48.14-21.141,48.14-48.141h-7.34C117.981,111,99.679,128.799,77.182,128.799z">
+			<animateTransform attributeName="transform" attributeType="XML" begin="0.5" type="rotate" from="0 77 80" to="360 77 80" dur="5s" repeatCount="indefinite" />
+		</path>
+	</g>
+</g>
+</svg>
